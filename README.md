@@ -2,12 +2,12 @@
 
 <div align="center">
 
-** AI Pathfinder with Dynamic Obstacles and Real-time Visualization**
+**AI Pathfinder with Dynamic Obstacles and Real-time Visualization**
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org)
 [![Pygame](https://img.shields.io/badge/Pygame-2.5.2-red.svg)](https://www.pygame.org)
 [![License](https://img.shields.io/badge/License-Educational-green.svg)](#license)
-[![Authors](https://img.shields.io/badge/Authors-alien--2u%20%7C%20ImtinanulHaq-black.svg)](#authors)
+[![Authors](https://img.shields.io/badge/Authors-aliamir26-%20%7C%20ImtinanulHaq-black.svg)](#authors)
 
 </div>
 
@@ -45,7 +45,7 @@ A comprehensive implementation of **six uninformed search algorithms** for pathf
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/alien-2u/Uninformed-Search-in-a-Grid-Environment.git
+git clone https://github.com/aliamir26/Uninformed-Search-in-a-Grid-Environment.git
 cd Uninformed-Search-in-a-Grid-Environment
 
 # 2. Install dependencies
@@ -238,7 +238,7 @@ python app.py
 #### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/alien-2u/Uninformed-Search-in-a-Grid-Environment.git
+git clone https://github.com/aliamir26/Uninformed-Search-in-a-Grid-Environment.git
 cd Uninformed-Search-in-a-Grid-Environment
 ```
 
@@ -718,7 +718,7 @@ This project is provided for **educational purposes**. You are free to use, modi
 ## Authors
 
 **Ali Amir**  
-**GitHub:** [@alien-2u](https://github.com/alien-2u)
+**GitHub:** [@aliamir26](https://github.com/aliamir26)
 
 **Imtinan ul Haq**  
 **GitHub:** [@ImtinanulHaq](https://github.com/ImtinanulHaq)

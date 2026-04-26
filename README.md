@@ -7,7 +7,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org)
 [![Pygame](https://img.shields.io/badge/Pygame-2.5.2-red.svg)](https://www.pygame.org)
 [![License](https://img.shields.io/badge/License-Educational-green.svg)](#license)
-[![Authors](https://img.shields.io/badge/Authors-aliamir26-%20%7C%20ImtinanulHaq-black.svg)](#authors)
+[![Authors](https://img.shields.io/badge/Authors-aliamir26%20%7C%20ImtinanulHaq-black.svg)](#authors)
 
 </div>
 
